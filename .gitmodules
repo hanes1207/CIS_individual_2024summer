@@ -1,0 +1,6 @@
+[submodule "CIS_safety_gym"]
+	path = CIS_safety_gym
+	url = https://github.com/hanes1207/CIS_safety_gym.git
+[submodule "CIS_safety_starter_agent"]
+	path = CIS_safety_starter_agent
+	url = https://github.com/hanes1207/CIS_safety_starter_agent.git
